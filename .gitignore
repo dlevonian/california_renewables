@@ -1,4 +1,3 @@
 *.txt
-*.csv
-ww_selenium_n.py
 !requirements.txt
+!20170313_DailyRenewablesWatch_SAMPLE.txt
