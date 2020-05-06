@@ -1,0 +1,4 @@
+*.txt
+*.csv
+ww_selenium_n.py
+!requirements.txt
