@@ -32,7 +32,7 @@
 
 
 
-<div class="wp-block-image"><figure class="alignleft size-large"><img srcset='https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-560651-4cFqDNXh-300x210.png 300w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-560651-4cFqDNXh-600x420.png 600w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-560651-4cFqDNXh-768x538.png 768w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-560651-4cFqDNXh.png 804w' sizes='(max-width: 804px) 100vw, 804px' src="https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-560651-4cFqDNXh.png" alt="" class="wp-image-63240" /></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large"><img srcset='https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-560651-4cFqDNXh-300x210.png 300w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-560651-4cFqDNXh-600x420.png 600w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-560651-4cFqDNXh-768x538.png 768w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-560651-4cFqDNXh.png 804w' width='600' src="https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-560651-4cFqDNXh.png" alt="" class="wp-image-63240" /></figure></div>
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-<div class="wp-block-image"><figure class="alignleft size-large"><img srcset='https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-881462-nfQ81Ofj-300x218.png 300w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-881462-nfQ81Ofj-600x436.png 600w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-881462-nfQ81Ofj-768x559.png 768w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-881462-nfQ81Ofj.png 796w' sizes='(max-width: 796px) 100vw, 796px' src="https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-881462-nfQ81Ofj.png" alt="" class="wp-image-63242" /></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large"><img srcset='https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-881462-nfQ81Ofj-300x218.png 300w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-881462-nfQ81Ofj-600x436.png 600w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-881462-nfQ81Ofj-768x559.png 768w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-881462-nfQ81Ofj.png 796w' width='600' src="https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-881462-nfQ81Ofj.png" alt="" class="wp-image-63242" /></figure></div>
 
 
 
@@ -75,7 +75,7 @@
 
 
 
-<div class="wp-block-image"><figure class="alignleft size-large"><img srcset='https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-323935-zHMX7fLp-300x212.png 300w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-323935-zHMX7fLp-600x425.png 600w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-323935-zHMX7fLp-768x544.png 768w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-323935-zHMX7fLp.png 805w' sizes='(max-width: 805px) 100vw, 805px' src="https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-323935-zHMX7fLp.png" alt="" class="wp-image-63580" /></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-large"><img srcset='https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-323935-zHMX7fLp-300x212.png 300w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-323935-zHMX7fLp-600x425.png 600w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-323935-zHMX7fLp-768x544.png 768w, https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-323935-zHMX7fLp.png 805w' width='600' src="https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2020/05/dmitri-levonian/image-323935-zHMX7fLp.png" alt="" class="wp-image-63580" /></figure></div>
 
 
 
